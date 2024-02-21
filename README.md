@@ -1,5 +1,5 @@
 # Insurance-costs
-This project focuses on estimating insurance costs using data from Kaggle. The objective is to develop a model for evaluating insurance costs. Dataset with description is in the following link https://www.kaggle.com/datasets/mirichoi0218/insurance
+This project focuses on estimating insurance costs using data from Kaggle. The objective is to develop a model for evaluating insurance costs. Dataset with description is in the following link https://www.kaggle.com/datasets/mirichoi0218/insurance also it is attached in this repository.
 
 ## Data Preprocessing
 The data underwent cleaning and preprocessing to prepare for model development.
